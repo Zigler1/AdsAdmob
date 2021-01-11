@@ -1,0 +1,14 @@
+C:\Users\zigler\source\repos\AdsAdmob\AdsAdmob\bin\Debug\netstandard2.0\AdsAdmob.deps.json
+C:\Users\zigler\source\repos\AdsAdmob\AdsAdmob\bin\Debug\netstandard2.0\AdsAdmob.dll
+C:\Users\zigler\source\repos\AdsAdmob\AdsAdmob\bin\Debug\netstandard2.0\ref\AdsAdmob.dll
+C:\Users\zigler\source\repos\AdsAdmob\AdsAdmob\bin\Debug\netstandard2.0\AdsAdmob.pdb
+C:\Users\zigler\source\repos\AdsAdmob\AdsAdmob\obj\Debug\netstandard2.0\AdsAdmob.csprojAssemblyReference.cache
+C:\Users\zigler\source\repos\AdsAdmob\AdsAdmob\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\zigler\source\repos\AdsAdmob\AdsAdmob\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\zigler\source\repos\AdsAdmob\AdsAdmob\obj\Debug\netstandard2.0\AdsAdmob.AssemblyInfoInputs.cache
+C:\Users\zigler\source\repos\AdsAdmob\AdsAdmob\obj\Debug\netstandard2.0\AdsAdmob.AssemblyInfo.cs
+C:\Users\zigler\source\repos\AdsAdmob\AdsAdmob\obj\Debug\netstandard2.0\AdsAdmob.csproj.CoreCompileInputs.cache
+C:\Users\zigler\source\repos\AdsAdmob\AdsAdmob\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\zigler\source\repos\AdsAdmob\AdsAdmob\obj\Debug\netstandard2.0\AdsAdmob.dll
+C:\Users\zigler\source\repos\AdsAdmob\AdsAdmob\obj\Debug\netstandard2.0\ref\AdsAdmob.dll
+C:\Users\zigler\source\repos\AdsAdmob\AdsAdmob\obj\Debug\netstandard2.0\AdsAdmob.pdb
